@@ -1,6 +1,8 @@
 owner: diona-katzlein # GitHub username
 repo: uptime # GitHub repository name
 sites: # List of endpoints to track
+  - name: Isekai ID
+    url: https://isekai.id
   - name: Google
     url: https://www.google.com
 assignees: # Users to assign downtime issues (optional)
